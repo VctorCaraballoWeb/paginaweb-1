@@ -15,16 +15,3 @@
     font-family: monospace;
 
 }
-
-#blog h2::before {
-
-    content: '';
-	position: absolute;
-	left:0;
-	bottom: -35px;
-	background-color: #52464e;
-	height: 3px;
-    left: 550px;
-	box-sizing: border-box;
-	width: 248px;
-}
