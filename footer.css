@@ -33,6 +33,7 @@ ul{
 	left:0;
 	bottom: -15px;
 	background-color: #c50c8d;
+	overflow: hidden;	
 	height: 3px;
 	box-sizing: border-box;
 	width: 145px;
